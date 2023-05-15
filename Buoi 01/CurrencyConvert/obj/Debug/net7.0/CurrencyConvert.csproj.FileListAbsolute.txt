@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/CurrencyConvert/obj/Debug/net7.0/CurrencyConvert.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/CurrencyConvert/obj/Debug/net7.0/CurrencyConvert.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/CurrencyConvert/obj/Debug/net7.0/CurrencyConvert.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/CurrencyConvert/obj/Debug/net7.0/CurrencyConvert.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/CurrencyConvert/obj/Debug/net7.0/CurrencyConvert.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/CurrencyConvert/bin/Debug/net7.0/CurrencyConvert
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/CurrencyConvert/bin/Debug/net7.0/CurrencyConvert.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/CurrencyConvert/bin/Debug/net7.0/CurrencyConvert.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/CurrencyConvert/bin/Debug/net7.0/CurrencyConvert.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/CurrencyConvert/bin/Debug/net7.0/CurrencyConvert.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/CurrencyConvert/obj/Debug/net7.0/CurrencyConvert.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/CurrencyConvert/obj/Debug/net7.0/refint/CurrencyConvert.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/CurrencyConvert/obj/Debug/net7.0/CurrencyConvert.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/CurrencyConvert/obj/Debug/net7.0/CurrencyConvert.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/CurrencyConvert/obj/Debug/net7.0/ref/CurrencyConvert.dll
