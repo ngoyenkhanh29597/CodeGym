@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay/bin/Debug/net7.0/NameDisplay
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay/bin/Debug/net7.0/NameDisplay.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay/bin/Debug/net7.0/NameDisplay.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay/bin/Debug/net7.0/NameDisplay.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay/bin/Debug/net7.0/NameDisplay.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay/obj/Debug/net7.0/NameDisplay.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay/obj/Debug/net7.0/NameDisplay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay/obj/Debug/net7.0/NameDisplay.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay/obj/Debug/net7.0/NameDisplay.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay/obj/Debug/net7.0/NameDisplay.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay/obj/Debug/net7.0/NameDisplay.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay/obj/Debug/net7.0/refint/NameDisplay.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay/obj/Debug/net7.0/NameDisplay.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay/obj/Debug/net7.0/NameDisplay.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay/obj/Debug/net7.0/ref/NameDisplay.dll
