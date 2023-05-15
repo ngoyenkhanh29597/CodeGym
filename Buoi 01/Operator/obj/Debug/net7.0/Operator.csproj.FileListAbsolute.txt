@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/Operator/bin/Debug/net7.0/Operator
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/Operator/bin/Debug/net7.0/Operator.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/Operator/bin/Debug/net7.0/Operator.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/Operator/bin/Debug/net7.0/Operator.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/Operator/bin/Debug/net7.0/Operator.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/Operator/obj/Debug/net7.0/Operator.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/Operator/obj/Debug/net7.0/Operator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/Operator/obj/Debug/net7.0/Operator.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/Operator/obj/Debug/net7.0/Operator.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/Operator/obj/Debug/net7.0/Operator.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/Operator/obj/Debug/net7.0/Operator.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/Operator/obj/Debug/net7.0/refint/Operator.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/Operator/obj/Debug/net7.0/Operator.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/Operator/obj/Debug/net7.0/Operator.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/Operator/obj/Debug/net7.0/ref/Operator.dll
