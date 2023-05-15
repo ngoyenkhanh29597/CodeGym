@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/SystemTime/bin/Debug/net7.0/SystemTime
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/SystemTime/bin/Debug/net7.0/SystemTime.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/SystemTime/bin/Debug/net7.0/SystemTime.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/SystemTime/bin/Debug/net7.0/SystemTime.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/SystemTime/bin/Debug/net7.0/SystemTime.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/SystemTime/obj/Debug/net7.0/SystemTime.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/SystemTime/obj/Debug/net7.0/SystemTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/SystemTime/obj/Debug/net7.0/SystemTime.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/SystemTime/obj/Debug/net7.0/SystemTime.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/SystemTime/obj/Debug/net7.0/SystemTime.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/SystemTime/obj/Debug/net7.0/SystemTime.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/SystemTime/obj/Debug/net7.0/refint/SystemTime.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/SystemTime/obj/Debug/net7.0/SystemTime.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/SystemTime/obj/Debug/net7.0/SystemTime.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/SystemTime/obj/Debug/net7.0/ref/SystemTime.dll
