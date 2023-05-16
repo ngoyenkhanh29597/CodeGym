@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 02/BirthdayPredict/BirthdayPredict/BirthdayPredict/obj/Debug/net7.0/BirthdayPredict.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 02/BirthdayPredict/BirthdayPredict/BirthdayPredict/obj/Debug/net7.0/BirthdayPredict.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 02/BirthdayPredict/BirthdayPredict/BirthdayPredict/obj/Debug/net7.0/BirthdayPredict.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 02/BirthdayPredict/BirthdayPredict/BirthdayPredict/obj/Debug/net7.0/BirthdayPredict.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 02/BirthdayPredict/BirthdayPredict/BirthdayPredict/obj/Debug/net7.0/BirthdayPredict.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 02/BirthdayPredict/BirthdayPredict/BirthdayPredict/bin/Debug/net7.0/BirthdayPredict
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 02/BirthdayPredict/BirthdayPredict/BirthdayPredict/bin/Debug/net7.0/BirthdayPredict.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 02/BirthdayPredict/BirthdayPredict/BirthdayPredict/bin/Debug/net7.0/BirthdayPredict.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 02/BirthdayPredict/BirthdayPredict/BirthdayPredict/bin/Debug/net7.0/BirthdayPredict.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 02/BirthdayPredict/BirthdayPredict/BirthdayPredict/bin/Debug/net7.0/BirthdayPredict.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 02/BirthdayPredict/BirthdayPredict/BirthdayPredict/obj/Debug/net7.0/BirthdayPredict.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 02/BirthdayPredict/BirthdayPredict/BirthdayPredict/obj/Debug/net7.0/refint/BirthdayPredict.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 02/BirthdayPredict/BirthdayPredict/BirthdayPredict/obj/Debug/net7.0/BirthdayPredict.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 02/BirthdayPredict/BirthdayPredict/BirthdayPredict/obj/Debug/net7.0/BirthdayPredict.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 02/BirthdayPredict/BirthdayPredict/BirthdayPredict/obj/Debug/net7.0/ref/BirthdayPredict.dll

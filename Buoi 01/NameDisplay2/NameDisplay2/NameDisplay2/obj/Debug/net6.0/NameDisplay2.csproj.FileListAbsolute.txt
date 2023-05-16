@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay2/NameDisplay2/NameDisplay2/bin/Debug/net6.0/NameDisplay2
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay2/NameDisplay2/NameDisplay2/bin/Debug/net6.0/NameDisplay2.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay2/NameDisplay2/NameDisplay2/bin/Debug/net6.0/NameDisplay2.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay2/NameDisplay2/NameDisplay2/bin/Debug/net6.0/NameDisplay2.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay2/NameDisplay2/NameDisplay2/bin/Debug/net6.0/NameDisplay2.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay2/NameDisplay2/NameDisplay2/obj/Debug/net6.0/NameDisplay2.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay2/NameDisplay2/NameDisplay2/obj/Debug/net6.0/NameDisplay2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay2/NameDisplay2/NameDisplay2/obj/Debug/net6.0/NameDisplay2.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay2/NameDisplay2/NameDisplay2/obj/Debug/net6.0/NameDisplay2.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay2/NameDisplay2/NameDisplay2/obj/Debug/net6.0/NameDisplay2.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay2/NameDisplay2/NameDisplay2/obj/Debug/net6.0/NameDisplay2.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay2/NameDisplay2/NameDisplay2/obj/Debug/net6.0/refint/NameDisplay2.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay2/NameDisplay2/NameDisplay2/obj/Debug/net6.0/NameDisplay2.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay2/NameDisplay2/NameDisplay2/obj/Debug/net6.0/NameDisplay2.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 01/NameDisplay2/NameDisplay2/NameDisplay2/obj/Debug/net6.0/ref/NameDisplay2.dll
