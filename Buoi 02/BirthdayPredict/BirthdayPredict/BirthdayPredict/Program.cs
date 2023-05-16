@@ -17,43 +17,64 @@ namespace BirthdayCountdown
             int date = int.Parse(arrString[0]); //Convert date from string to int.
             int month = int.Parse(arrString[1]); //Convert month from string to int.
             
-            //Calculate number of days to my birthday.
+            //Calculate number of days to your birthday.
             DateTime now = DateTime.Now; //Get system time.
-            DateTime dateCal = new DateTime(now.Year, month, date); //Convert input birthday to DateTime data type.
-            TimeSpan diff = dateCal.Subtract(now); //use function to calculate difference between 2 moments.
-         
-            if (diff.Days < 0) //if the birthday is over.
+            if (now.Year / 4 != 0) //if it's non-leap year
             {
-                int diffDaysNew;
-                int diffHoursNew;
-                int diffMinutesNew;
-                diffHoursNew = diff.Hours + 23;
-                diffMinutesNew = diff.Minutes + 59;
-
-                if (DateTime.Now.Year/4==0) //if it is leap year.
+                if (date == 29 && month == 2) //non-leap years' Feb have only 28 days
                 {
-                    diffDaysNew = diff.Days + 366; //Leap year is 366 days.
-                    Console.WriteLine("{0} days {1} hours {2} minutes to your birthday <3 ", diffDaysNew, diffHoursNew, diffMinutesNew);
-                    
+                    Console.WriteLine("You don't have birthday this year :((");
                 }
                 else
                 {
-                    diffDaysNew = diff.Days + 365; //Non-leap year is 365 days.
-                    Console.WriteLine("{0} days {1} hours {2} minutes to your birthday <3 ", diffDaysNew, diffHoursNew, diffMinutesNew);
+                    DateTime dateCal = new DateTime(now.Year, month, date); //Convert input birthday to DateTime data type.
+                    TimeSpan diff = dateCal.Subtract(now); //use function to calculate difference between 2 moments.
+
+                    if (dateCal.Date == now.Date && dateCal.Month == now.Month)
+                    {
+                        Console.WriteLine("It's today <3");
+                    }
+                    else if (diff.Days < 0) //if the birthday is over.
+                    {
+                        int diffDaysNew;
+                        int diffHoursNew;
+                        int diffMinutesNew;
+                        diffHoursNew = diff.Hours + 23;
+                        diffMinutesNew = diff.Minutes + 59;
+                        diffDaysNew = diff.Days + 365; //Non-leap year has 365 days.
+                        Console.WriteLine("{0} days {1} hours {2} minutes to your birthday <3 ", diffDaysNew, diffHoursNew, diffMinutesNew);
+                    }
+                    else
+                    {
+                        Console.WriteLine("{0} days {1} hours {2} minutes to your birthday <3 ", diff.Days, diff.Hours, diff.Minutes);
+                    }
                 }
             }
-            if (diff.Days == 0)
-            {
-                Console.WriteLine("It's today");
-            }
             else
-            {
-                Console.WriteLine("{0} days {1} hours {2} minutes to your birthday <3 ", diff.Days, diff.Hours, diff.Minutes);
-            }
+            { 
+                DateTime dateCal = new DateTime(now.Year, month, date); //Convert input birthday to DateTime data type.
+                TimeSpan diff = dateCal.Subtract(now); //use function to calculate difference between 2 moments.
 
-            Console.ReadKey();
+                if (dateCal.Date == now.Date && dateCal.Month == now.Month)
+                {
+                    Console.WriteLine("It's today <3");
+                }
+                else if (diff.Days < 0) //if the birthday is over.
+                {
+                    int diffDaysNew;
+                    int diffHoursNew;
+                    int diffMinutesNew;
+                    diffHoursNew = diff.Hours + 23;
+                    diffMinutesNew = diff.Minutes + 59;
+                    diffDaysNew = diff.Days + 366; //Leap year has 366 days.
+                    Console.WriteLine("{0} days {1} hours {2} minutes to your birthday <3 ", diffDaysNew, diffHoursNew, diffMinutesNew);
+                }
+                else
+                {
+                    Console.WriteLine("{0} days {1} hours {2} minutes to your birthday <3 ", diff.Days, diff.Hours, diff.Minutes);
+                }
+            }
+        Console.ReadKey();
         }
     }
 }
-
-
