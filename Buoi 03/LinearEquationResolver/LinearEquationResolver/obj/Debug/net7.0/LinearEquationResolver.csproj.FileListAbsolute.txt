@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/LinearEquationResolver/LinearEquationResolver/bin/Debug/net7.0/LinearEquationResolver
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/LinearEquationResolver/LinearEquationResolver/bin/Debug/net7.0/LinearEquationResolver.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/LinearEquationResolver/LinearEquationResolver/bin/Debug/net7.0/LinearEquationResolver.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/LinearEquationResolver/LinearEquationResolver/bin/Debug/net7.0/LinearEquationResolver.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/LinearEquationResolver/LinearEquationResolver/bin/Debug/net7.0/LinearEquationResolver.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/LinearEquationResolver/LinearEquationResolver/obj/Debug/net7.0/LinearEquationResolver.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/LinearEquationResolver/LinearEquationResolver/obj/Debug/net7.0/LinearEquationResolver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/LinearEquationResolver/LinearEquationResolver/obj/Debug/net7.0/LinearEquationResolver.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/LinearEquationResolver/LinearEquationResolver/obj/Debug/net7.0/LinearEquationResolver.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/LinearEquationResolver/LinearEquationResolver/obj/Debug/net7.0/LinearEquationResolver.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/LinearEquationResolver/LinearEquationResolver/obj/Debug/net7.0/LinearEquationResolver.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/LinearEquationResolver/LinearEquationResolver/obj/Debug/net7.0/refint/LinearEquationResolver.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/LinearEquationResolver/LinearEquationResolver/obj/Debug/net7.0/LinearEquationResolver.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/LinearEquationResolver/LinearEquationResolver/obj/Debug/net7.0/LinearEquationResolver.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/LinearEquationResolver/LinearEquationResolver/obj/Debug/net7.0/ref/LinearEquationResolver.dll

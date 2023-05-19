@@ -7,6 +7,26 @@ namespace BirthdayCountdown
     {
         static void Main(string[] args)
         {
+            string input;
+            input = Console.ReadLine();
+            DateTime ngaysinh = DateTime.Parse(input);
+            DateTime ngayhientai = DateTime.Now;
+
+            DateTime sinhnhattoi = new DateTime(DateTime.Now.Year, ngaysinh.Month, ngaysinh.Day);
+
+            int songaychodoi = 0;
+            if (sinhnhattoi > ngayhientai)
+            {
+                songaychodoi = (int)(sinhnhattoi - ngayhientai).TotalDays;
+            }
+            else
+            {
+                //sinhnhattoi = new DateTime(DateTime.Now.Year + 1, ngaysinh.Month, ngaysinh.Day);
+                sinhnhattoi = sinhnhattoi.AddYears(1);
+                songaychodoi = 
+            }
+        static void TuLam(string[] args)
+        {
             Console.Write("Enter your date of birth: ");
             string birthDay = Console.ReadLine(); //Input.
             string[] arrString = birthDay.Split('/'); //Split string.

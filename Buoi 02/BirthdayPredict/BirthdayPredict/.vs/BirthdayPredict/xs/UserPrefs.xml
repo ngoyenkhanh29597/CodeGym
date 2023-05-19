@@ -1,12 +1,11 @@
 ﻿<Properties StartupConfiguration="{2FDF7D3A-89F5-41A0-9361-8356D37F5D83}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="BirthdayPredict/Program.cs">
     <Files>
-      <File FileName="BirthdayPredict/Program.cs" Line="7" Column="6" />
+      <File FileName="BirthdayPredict/Program.cs" Line="49" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,11 +17,9 @@
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.BirthdayPredict PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

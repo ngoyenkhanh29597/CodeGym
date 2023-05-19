@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C4D4290B-18F7-4098-AFB7-50CB6798A054}|Default">
+  <MonoDevelop.Ide.ItemProperties.LinearEquationResolver PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinearEquationResolver/Program.cs">
+    <Files>
+      <File FileName="LinearEquationResolver/Program.cs" Line="7" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LinearEquationResolver" expanded="True">
+            <Node name="LinearEquationResolver" expanded="True">
+              <Node name="Dependencies" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
