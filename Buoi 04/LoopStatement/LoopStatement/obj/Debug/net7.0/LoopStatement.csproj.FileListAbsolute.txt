@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/LoopStatement/LoopStatement/bin/Debug/net7.0/LoopStatement
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/LoopStatement/LoopStatement/bin/Debug/net7.0/LoopStatement.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/LoopStatement/LoopStatement/bin/Debug/net7.0/LoopStatement.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/LoopStatement/LoopStatement/bin/Debug/net7.0/LoopStatement.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/LoopStatement/LoopStatement/bin/Debug/net7.0/LoopStatement.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/LoopStatement/LoopStatement/obj/Debug/net7.0/LoopStatement.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/LoopStatement/LoopStatement/obj/Debug/net7.0/LoopStatement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/LoopStatement/LoopStatement/obj/Debug/net7.0/LoopStatement.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/LoopStatement/LoopStatement/obj/Debug/net7.0/LoopStatement.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/LoopStatement/LoopStatement/obj/Debug/net7.0/LoopStatement.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/LoopStatement/LoopStatement/obj/Debug/net7.0/LoopStatement.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/LoopStatement/LoopStatement/obj/Debug/net7.0/refint/LoopStatement.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/LoopStatement/LoopStatement/obj/Debug/net7.0/LoopStatement.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/LoopStatement/LoopStatement/obj/Debug/net7.0/LoopStatement.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/LoopStatement/LoopStatement/obj/Debug/net7.0/ref/LoopStatement.dll

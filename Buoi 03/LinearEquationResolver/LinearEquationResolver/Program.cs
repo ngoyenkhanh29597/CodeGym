@@ -12,12 +12,18 @@ class Program
         Console.Write("b = ");
         float b = float.Parse(Console.ReadLine());
         if (a == 0)
-           Console.WriteLine("The equation has no solution");
+        {
+            if (b == 0)
+                Console.WriteLine("The equation has infinity solution");
+            else
+                Console.WriteLine("The equation has no solution");
+        }
         else
         {
-            float x = -b/a;
-            Console.WriteLine("The solution of the equation x = " +x);
+            float x = -b / a;
+            Console.WriteLine("The solution of the equation x = " + x);
         }
+        Console.ReadKey();
     }
 }
 
