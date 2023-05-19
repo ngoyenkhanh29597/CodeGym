@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{B668DEEA-B382-4401-92D7-76A2F8BC91BC}|Default">
-  <MonoDevelop.Ide.ItemProperties.BMICalculation FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BMICalculation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BMICalculation/Program.cs">
+    <Files>
+      <File FileName="BMICalculation/Program.cs" Line="14" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BMICalculation" expanded="True">
+            <Node name="BMICalculation" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
