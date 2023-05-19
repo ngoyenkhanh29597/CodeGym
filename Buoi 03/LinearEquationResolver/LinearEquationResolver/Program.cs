@@ -16,9 +16,8 @@ class Program
         else
         {
             float x = -b/a;
-            Console.WriteLine("The slution of the equation x = " +x);
+            Console.WriteLine("The solution of the equation x = " +x);
         }
-
     }
 }
 

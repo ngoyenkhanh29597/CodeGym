@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/BMICalculation/BMICalculation/BMICalculation/obj/Debug/net7.0/BMICalculation.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/BMICalculation/BMICalculation/BMICalculation/obj/Debug/net7.0/BMICalculation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/BMICalculation/BMICalculation/BMICalculation/obj/Debug/net7.0/BMICalculation.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/BMICalculation/BMICalculation/BMICalculation/obj/Debug/net7.0/BMICalculation.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/BMICalculation/BMICalculation/BMICalculation/obj/Debug/net7.0/BMICalculation.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/BMICalculation/BMICalculation/BMICalculation/bin/Debug/net7.0/BMICalculation
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/BMICalculation/BMICalculation/BMICalculation/bin/Debug/net7.0/BMICalculation.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/BMICalculation/BMICalculation/BMICalculation/bin/Debug/net7.0/BMICalculation.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/BMICalculation/BMICalculation/BMICalculation/bin/Debug/net7.0/BMICalculation.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/BMICalculation/BMICalculation/BMICalculation/bin/Debug/net7.0/BMICalculation.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/BMICalculation/BMICalculation/BMICalculation/obj/Debug/net7.0/BMICalculation.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/BMICalculation/BMICalculation/BMICalculation/obj/Debug/net7.0/refint/BMICalculation.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/BMICalculation/BMICalculation/BMICalculation/obj/Debug/net7.0/BMICalculation.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/BMICalculation/BMICalculation/BMICalculation/obj/Debug/net7.0/BMICalculation.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/BMICalculation/BMICalculation/BMICalculation/obj/Debug/net7.0/ref/BMICalculation.dll
