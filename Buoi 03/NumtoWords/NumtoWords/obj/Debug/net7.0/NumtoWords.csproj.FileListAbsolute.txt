@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/NumtoWords/NumtoWords/obj/Debug/net7.0/NumtoWords.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/NumtoWords/NumtoWords/obj/Debug/net7.0/NumtoWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/NumtoWords/NumtoWords/obj/Debug/net7.0/NumtoWords.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/NumtoWords/NumtoWords/obj/Debug/net7.0/NumtoWords.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/NumtoWords/NumtoWords/obj/Debug/net7.0/NumtoWords.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/NumtoWords/NumtoWords/bin/Debug/net7.0/NumtoWords
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/NumtoWords/NumtoWords/bin/Debug/net7.0/NumtoWords.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/NumtoWords/NumtoWords/bin/Debug/net7.0/NumtoWords.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/NumtoWords/NumtoWords/bin/Debug/net7.0/NumtoWords.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/NumtoWords/NumtoWords/bin/Debug/net7.0/NumtoWords.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/NumtoWords/NumtoWords/obj/Debug/net7.0/NumtoWords.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/NumtoWords/NumtoWords/obj/Debug/net7.0/refint/NumtoWords.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/NumtoWords/NumtoWords/obj/Debug/net7.0/NumtoWords.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/NumtoWords/NumtoWords/obj/Debug/net7.0/NumtoWords.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 03/NumtoWords/NumtoWords/obj/Debug/net7.0/ref/NumtoWords.dll
