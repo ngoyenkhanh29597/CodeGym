@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/Menu/Menu/bin/Debug/net7.0/Menu
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/Menu/Menu/bin/Debug/net7.0/Menu.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/Menu/Menu/bin/Debug/net7.0/Menu.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/Menu/Menu/bin/Debug/net7.0/Menu.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/Menu/Menu/bin/Debug/net7.0/Menu.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/Menu/Menu/obj/Debug/net7.0/Menu.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/Menu/Menu/obj/Debug/net7.0/Menu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/Menu/Menu/obj/Debug/net7.0/Menu.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/Menu/Menu/obj/Debug/net7.0/Menu.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/Menu/Menu/obj/Debug/net7.0/Menu.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/Menu/Menu/obj/Debug/net7.0/Menu.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/Menu/Menu/obj/Debug/net7.0/refint/Menu.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/Menu/Menu/obj/Debug/net7.0/Menu.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/Menu/Menu/obj/Debug/net7.0/Menu.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/Menu/Menu/obj/Debug/net7.0/ref/Menu.dll

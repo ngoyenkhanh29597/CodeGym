@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{4D42FB45-C997-49A5-BF27-429FEB791B2D}|Default">
+  <MonoDevelop.Ide.ItemProperties.NumtoWords PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NumtoWords/Program.cs">
+    <Files>
+      <File FileName="NumtoWords/Program.cs" Line="1" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NumtoWords" expanded="True">
+            <Node name="NumtoWords" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.NumtoWords FirstBuild="True" />
 </Properties>
