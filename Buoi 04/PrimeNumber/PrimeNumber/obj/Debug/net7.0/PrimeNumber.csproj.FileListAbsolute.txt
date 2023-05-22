@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/PrimeNumber/PrimeNumber/obj/Debug/net7.0/PrimeNumber.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/PrimeNumber/PrimeNumber/obj/Debug/net7.0/PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/PrimeNumber/PrimeNumber/obj/Debug/net7.0/PrimeNumber.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/PrimeNumber/PrimeNumber/obj/Debug/net7.0/PrimeNumber.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/PrimeNumber/PrimeNumber/obj/Debug/net7.0/PrimeNumber.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/PrimeNumber/PrimeNumber/bin/Debug/net7.0/PrimeNumber
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/PrimeNumber/PrimeNumber/bin/Debug/net7.0/PrimeNumber.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/PrimeNumber/PrimeNumber/bin/Debug/net7.0/PrimeNumber.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/PrimeNumber/PrimeNumber/bin/Debug/net7.0/PrimeNumber.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/PrimeNumber/PrimeNumber/bin/Debug/net7.0/PrimeNumber.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/PrimeNumber/PrimeNumber/obj/Debug/net7.0/PrimeNumber.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/PrimeNumber/PrimeNumber/obj/Debug/net7.0/refint/PrimeNumber.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/PrimeNumber/PrimeNumber/obj/Debug/net7.0/PrimeNumber.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/PrimeNumber/PrimeNumber/obj/Debug/net7.0/PrimeNumber.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 04/PrimeNumber/PrimeNumber/obj/Debug/net7.0/ref/PrimeNumber.dll
