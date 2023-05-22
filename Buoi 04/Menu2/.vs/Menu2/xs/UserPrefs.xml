@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{F42B66F3-8AE1-4CD1-A874-54D9ED54139E}|Default">
+﻿<Properties StartupConfiguration="{BF598F2F-0B65-4252-BA86-79FC1573C76B}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Menu/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Menu2/Program.cs">
     <Files>
-      <File FileName="Menu/Program.cs" Line="54" Column="14" />
+      <File FileName="Menu2/Program.cs" Line="73" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Menu" expanded="True">
-            <Node name="Menu" expanded="True">
+          <Node name="Menu2" expanded="True">
+            <Node name="Menu2" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -23,7 +23,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Menu PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Menu2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

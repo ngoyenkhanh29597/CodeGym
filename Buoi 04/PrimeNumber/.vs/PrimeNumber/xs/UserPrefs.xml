@@ -1,4 +1,30 @@
 ﻿<Properties StartupConfiguration="{E32E1C43-05BB-4722-9F20-BAD1AA5AB490}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrimeNumber/Program.cs">
+    <Files>
+      <File FileName="PrimeNumber/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PrimeNumber" expanded="True">
+            <Node name="PrimeNumber" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>count</Value>
+          <Value>i</Value>
+          <Value>num</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.PrimeNumber FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.PrimeNumber PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

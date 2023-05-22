@@ -12,10 +12,11 @@ class Program
             Console.WriteLine("3. Draw the rectangle");
             Console.WriteLine("0. Exit");
             Console.Write("Enter your choice: ");
-            option = Int32.Parse(Console.ReadLine());
+            option = int.Parse(Console.ReadLine());
             switch (option)
             {
                 case 1:
+                    Console.Write("\n");
                     Console.WriteLine("Draw the triangle");
                     Console.WriteLine("******");
                     Console.WriteLine("*****");
@@ -23,8 +24,10 @@ class Program
                     Console.WriteLine("***");
                     Console.WriteLine("**");
                     Console.WriteLine("*");
+                    Console.Write("\n");
                     break;
                 case 2:
+                    Console.Write("\n");
                     Console.WriteLine("Draw the square");
                     Console.WriteLine("* * * * * *");
                     Console.WriteLine("* * * * * *");
@@ -32,12 +35,15 @@ class Program
                     Console.WriteLine("* * * * * *");
                     Console.WriteLine("* * * * * *");
                     Console.WriteLine("* * * * * *");
+                    Console.Write("\n");
                     break;
                 case 3:
+                    Console.Write("\n");
                     Console.WriteLine("Draw the rectangle");
                     Console.WriteLine("* * * * * *");
                     Console.WriteLine("* * * * * *");
                     Console.WriteLine("* * * * * *");
+                    Console.Write("\n");
                     break;
                 case 0:
                     Environment.Exit(0);
@@ -47,7 +53,7 @@ class Program
                     break;
             }
         } while (option != 0);
-
+        Console.ReadKey();
     }
 }
 
