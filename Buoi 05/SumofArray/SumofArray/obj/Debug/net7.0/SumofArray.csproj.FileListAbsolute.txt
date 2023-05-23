@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/SumofArray/SumofArray/obj/Debug/net7.0/SumofArray.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/SumofArray/SumofArray/obj/Debug/net7.0/SumofArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/SumofArray/SumofArray/obj/Debug/net7.0/SumofArray.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/SumofArray/SumofArray/obj/Debug/net7.0/SumofArray.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/SumofArray/SumofArray/obj/Debug/net7.0/SumofArray.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/SumofArray/SumofArray/bin/Debug/net7.0/SumofArray
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/SumofArray/SumofArray/bin/Debug/net7.0/SumofArray.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/SumofArray/SumofArray/bin/Debug/net7.0/SumofArray.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/SumofArray/SumofArray/bin/Debug/net7.0/SumofArray.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/SumofArray/SumofArray/bin/Debug/net7.0/SumofArray.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/SumofArray/SumofArray/obj/Debug/net7.0/SumofArray.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/SumofArray/SumofArray/obj/Debug/net7.0/refint/SumofArray.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/SumofArray/SumofArray/obj/Debug/net7.0/SumofArray.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/SumofArray/SumofArray/obj/Debug/net7.0/SumofArray.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/SumofArray/SumofArray/obj/Debug/net7.0/ref/SumofArray.dll

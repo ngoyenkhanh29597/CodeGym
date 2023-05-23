@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/Array/Array/bin/Debug/net7.0/Array
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/Array/Array/bin/Debug/net7.0/Array.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/Array/Array/bin/Debug/net7.0/Array.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/Array/Array/bin/Debug/net7.0/Array.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/Array/Array/bin/Debug/net7.0/Array.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/Array/Array/obj/Debug/net7.0/Array.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/Array/Array/obj/Debug/net7.0/Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/Array/Array/obj/Debug/net7.0/Array.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/Array/Array/obj/Debug/net7.0/Array.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/Array/Array/obj/Debug/net7.0/Array.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/Array/Array/obj/Debug/net7.0/Array.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/Array/Array/obj/Debug/net7.0/refint/Array.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/Array/Array/obj/Debug/net7.0/Array.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/Array/Array/obj/Debug/net7.0/Array.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/Array/Array/obj/Debug/net7.0/ref/Array.dll
