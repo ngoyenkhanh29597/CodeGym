@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindElementInArray/FindElementInArray/bin/Debug/net7.0/FindElementInArray
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindElementInArray/FindElementInArray/bin/Debug/net7.0/FindElementInArray.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindElementInArray/FindElementInArray/bin/Debug/net7.0/FindElementInArray.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindElementInArray/FindElementInArray/bin/Debug/net7.0/FindElementInArray.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindElementInArray/FindElementInArray/bin/Debug/net7.0/FindElementInArray.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindElementInArray/FindElementInArray/obj/Debug/net7.0/FindElementInArray.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindElementInArray/FindElementInArray/obj/Debug/net7.0/FindElementInArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindElementInArray/FindElementInArray/obj/Debug/net7.0/FindElementInArray.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindElementInArray/FindElementInArray/obj/Debug/net7.0/FindElementInArray.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindElementInArray/FindElementInArray/obj/Debug/net7.0/FindElementInArray.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindElementInArray/FindElementInArray/obj/Debug/net7.0/FindElementInArray.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindElementInArray/FindElementInArray/obj/Debug/net7.0/refint/FindElementInArray.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindElementInArray/FindElementInArray/obj/Debug/net7.0/FindElementInArray.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindElementInArray/FindElementInArray/obj/Debug/net7.0/FindElementInArray.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindElementInArray/FindElementInArray/obj/Debug/net7.0/ref/FindElementInArray.dll
