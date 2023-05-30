@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/Function/Function/obj/Debug/net7.0/Function.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/Function/Function/obj/Debug/net7.0/Function.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/Function/Function/obj/Debug/net7.0/Function.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/Function/Function/obj/Debug/net7.0/Function.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/Function/Function/obj/Debug/net7.0/Function.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/Function/Function/bin/Debug/net7.0/Function
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/Function/Function/bin/Debug/net7.0/Function.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/Function/Function/bin/Debug/net7.0/Function.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/Function/Function/bin/Debug/net7.0/Function.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/Function/Function/bin/Debug/net7.0/Function.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/Function/Function/obj/Debug/net7.0/Function.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/Function/Function/obj/Debug/net7.0/refint/Function.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/Function/Function/obj/Debug/net7.0/Function.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/Function/Function/obj/Debug/net7.0/Function.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/Function/Function/obj/Debug/net7.0/ref/Function.dll

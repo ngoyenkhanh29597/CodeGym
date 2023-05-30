@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{6B513EB4-AD82-4030-881D-F27B7E474CCC}|Default">
+﻿<Properties StartupConfiguration="{F52C6C64-61FA-44BE-B05A-D627FCA47C99}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="FindElementInArray/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Function/Program.cs">
     <Files>
-      <File FileName="FindElementInArray/Program.cs" Line="15" Column="54" />
+      <File FileName="Function/Program.cs" Line="19" Column="29" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="FindElementInArray" expanded="True">
-            <Node name="FindElementInArray" expanded="True">
+          <Node name="Function" expanded="True">
+            <Node name="Function" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -23,10 +23,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.FindElementInArray PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Function PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

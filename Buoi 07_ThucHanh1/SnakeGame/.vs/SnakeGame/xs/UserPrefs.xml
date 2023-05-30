@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{6B513EB4-AD82-4030-881D-F27B7E474CCC}|Default">
+﻿<Properties StartupConfiguration="{42002975-78A8-4A94-A103-B2D3BD6EE7CB}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="FindElementInArray/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SnakeGame/Program.cs">
     <Files>
-      <File FileName="FindElementInArray/Program.cs" Line="15" Column="54" />
+      <File FileName="SnakeGame/Program.cs" Line="152" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="FindElementInArray" expanded="True">
-            <Node name="FindElementInArray" expanded="True">
+          <Node name="SnakeGame" expanded="True">
+            <Node name="SnakeGame" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -23,10 +23,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.FindElementInArray PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SnakeGame PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
