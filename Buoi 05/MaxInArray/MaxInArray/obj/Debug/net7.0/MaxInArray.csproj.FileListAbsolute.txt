@@ -1,0 +1,15 @@
+/Users/YenKhanh/Projects/MaxInArray/MaxInArray/bin/Debug/net7.0/MaxInArray
+/Users/YenKhanh/Projects/MaxInArray/MaxInArray/bin/Debug/net7.0/MaxInArray.deps.json
+/Users/YenKhanh/Projects/MaxInArray/MaxInArray/bin/Debug/net7.0/MaxInArray.runtimeconfig.json
+/Users/YenKhanh/Projects/MaxInArray/MaxInArray/bin/Debug/net7.0/MaxInArray.dll
+/Users/YenKhanh/Projects/MaxInArray/MaxInArray/bin/Debug/net7.0/MaxInArray.pdb
+/Users/YenKhanh/Projects/MaxInArray/MaxInArray/obj/Debug/net7.0/MaxInArray.csproj.AssemblyReference.cache
+/Users/YenKhanh/Projects/MaxInArray/MaxInArray/obj/Debug/net7.0/MaxInArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Projects/MaxInArray/MaxInArray/obj/Debug/net7.0/MaxInArray.AssemblyInfoInputs.cache
+/Users/YenKhanh/Projects/MaxInArray/MaxInArray/obj/Debug/net7.0/MaxInArray.AssemblyInfo.cs
+/Users/YenKhanh/Projects/MaxInArray/MaxInArray/obj/Debug/net7.0/MaxInArray.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Projects/MaxInArray/MaxInArray/obj/Debug/net7.0/MaxInArray.dll
+/Users/YenKhanh/Projects/MaxInArray/MaxInArray/obj/Debug/net7.0/refint/MaxInArray.dll
+/Users/YenKhanh/Projects/MaxInArray/MaxInArray/obj/Debug/net7.0/MaxInArray.pdb
+/Users/YenKhanh/Projects/MaxInArray/MaxInArray/obj/Debug/net7.0/MaxInArray.genruntimeconfig.cache
+/Users/YenKhanh/Projects/MaxInArray/MaxInArray/obj/Debug/net7.0/ref/MaxInArray.dll
