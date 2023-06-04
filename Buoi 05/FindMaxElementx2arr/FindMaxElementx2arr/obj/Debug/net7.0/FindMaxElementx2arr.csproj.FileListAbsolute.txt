@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindMaxElementx2arr/FindMaxElementx2arr/obj/Debug/net7.0/FindMaxElementx2arr.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindMaxElementx2arr/FindMaxElementx2arr/obj/Debug/net7.0/FindMaxElementx2arr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindMaxElementx2arr/FindMaxElementx2arr/obj/Debug/net7.0/FindMaxElementx2arr.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindMaxElementx2arr/FindMaxElementx2arr/obj/Debug/net7.0/FindMaxElementx2arr.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindMaxElementx2arr/FindMaxElementx2arr/obj/Debug/net7.0/FindMaxElementx2arr.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindMaxElementx2arr/FindMaxElementx2arr/bin/Debug/net7.0/FindMaxElementx2arr
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindMaxElementx2arr/FindMaxElementx2arr/bin/Debug/net7.0/FindMaxElementx2arr.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindMaxElementx2arr/FindMaxElementx2arr/bin/Debug/net7.0/FindMaxElementx2arr.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindMaxElementx2arr/FindMaxElementx2arr/bin/Debug/net7.0/FindMaxElementx2arr.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindMaxElementx2arr/FindMaxElementx2arr/bin/Debug/net7.0/FindMaxElementx2arr.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindMaxElementx2arr/FindMaxElementx2arr/obj/Debug/net7.0/FindMaxElementx2arr.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindMaxElementx2arr/FindMaxElementx2arr/obj/Debug/net7.0/refint/FindMaxElementx2arr.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindMaxElementx2arr/FindMaxElementx2arr/obj/Debug/net7.0/FindMaxElementx2arr.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindMaxElementx2arr/FindMaxElementx2arr/obj/Debug/net7.0/FindMaxElementx2arr.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/FindMaxElementx2arr/FindMaxElementx2arr/obj/Debug/net7.0/ref/FindMaxElementx2arr.dll
