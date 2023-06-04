@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/DiagonalLineMatrix/DiagonalLineMatrix/obj/Debug/net7.0/DiagonalLineMatrix.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/DiagonalLineMatrix/DiagonalLineMatrix/obj/Debug/net7.0/DiagonalLineMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/DiagonalLineMatrix/DiagonalLineMatrix/obj/Debug/net7.0/DiagonalLineMatrix.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/DiagonalLineMatrix/DiagonalLineMatrix/obj/Debug/net7.0/DiagonalLineMatrix.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/DiagonalLineMatrix/DiagonalLineMatrix/obj/Debug/net7.0/DiagonalLineMatrix.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/DiagonalLineMatrix/DiagonalLineMatrix/bin/Debug/net7.0/DiagonalLineMatrix
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/DiagonalLineMatrix/DiagonalLineMatrix/bin/Debug/net7.0/DiagonalLineMatrix.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/DiagonalLineMatrix/DiagonalLineMatrix/bin/Debug/net7.0/DiagonalLineMatrix.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/DiagonalLineMatrix/DiagonalLineMatrix/bin/Debug/net7.0/DiagonalLineMatrix.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/DiagonalLineMatrix/DiagonalLineMatrix/bin/Debug/net7.0/DiagonalLineMatrix.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/DiagonalLineMatrix/DiagonalLineMatrix/obj/Debug/net7.0/DiagonalLineMatrix.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/DiagonalLineMatrix/DiagonalLineMatrix/obj/Debug/net7.0/refint/DiagonalLineMatrix.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/DiagonalLineMatrix/DiagonalLineMatrix/obj/Debug/net7.0/DiagonalLineMatrix.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/DiagonalLineMatrix/DiagonalLineMatrix/obj/Debug/net7.0/DiagonalLineMatrix.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/DiagonalLineMatrix/DiagonalLineMatrix/obj/Debug/net7.0/ref/DiagonalLineMatrix.dll
