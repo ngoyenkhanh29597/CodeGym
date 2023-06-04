@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/InsertElement/InsertElement/obj/Debug/net7.0/InsertElement.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/InsertElement/InsertElement/obj/Debug/net7.0/InsertElement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/InsertElement/InsertElement/obj/Debug/net7.0/InsertElement.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/InsertElement/InsertElement/obj/Debug/net7.0/InsertElement.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/InsertElement/InsertElement/obj/Debug/net7.0/InsertElement.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/InsertElement/InsertElement/bin/Debug/net7.0/InsertElement
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/InsertElement/InsertElement/bin/Debug/net7.0/InsertElement.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/InsertElement/InsertElement/bin/Debug/net7.0/InsertElement.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/InsertElement/InsertElement/bin/Debug/net7.0/InsertElement.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/InsertElement/InsertElement/bin/Debug/net7.0/InsertElement.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/InsertElement/InsertElement/obj/Debug/net7.0/InsertElement.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/InsertElement/InsertElement/obj/Debug/net7.0/refint/InsertElement.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/InsertElement/InsertElement/obj/Debug/net7.0/InsertElement.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/InsertElement/InsertElement/obj/Debug/net7.0/InsertElement.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/InsertElement/InsertElement/obj/Debug/net7.0/ref/InsertElement.dll
