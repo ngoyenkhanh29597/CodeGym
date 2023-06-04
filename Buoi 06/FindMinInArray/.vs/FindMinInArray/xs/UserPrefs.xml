@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{43832B5E-06DF-4855-B8E4-81AEE0E8BFA1}|Default">
-  <MonoDevelop.Ide.ItemProperties.TemperatureConvert PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TemperatureConvert/Program.cs">
+﻿<Properties StartupConfiguration="{A48E6DDB-1FC4-4648-AAAD-B71A4A387499}|Default">
+  <MonoDevelop.Ide.ItemProperties.FindMinInArray PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FindMinInArray/Program.cs">
     <Files>
-      <File FileName="TemperatureConvert/Program.cs" Line="14" Column="24" />
+      <File FileName="FindMinInArray/Program.cs" Line="6" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TemperatureConvert" expanded="True">
-            <Node name="TemperatureConvert" expanded="True">
+          <Node name="FindMinInArray" expanded="True">
+            <Node name="FindMinInArray" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>

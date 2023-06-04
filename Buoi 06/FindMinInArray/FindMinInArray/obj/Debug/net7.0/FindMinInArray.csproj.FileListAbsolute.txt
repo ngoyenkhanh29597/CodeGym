@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/FindMinInArray/FindMinInArray/bin/Debug/net7.0/FindMinInArray
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/FindMinInArray/FindMinInArray/bin/Debug/net7.0/FindMinInArray.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/FindMinInArray/FindMinInArray/bin/Debug/net7.0/FindMinInArray.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/FindMinInArray/FindMinInArray/bin/Debug/net7.0/FindMinInArray.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/FindMinInArray/FindMinInArray/bin/Debug/net7.0/FindMinInArray.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/FindMinInArray/FindMinInArray/obj/Debug/net7.0/FindMinInArray.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/FindMinInArray/FindMinInArray/obj/Debug/net7.0/FindMinInArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/FindMinInArray/FindMinInArray/obj/Debug/net7.0/FindMinInArray.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/FindMinInArray/FindMinInArray/obj/Debug/net7.0/FindMinInArray.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/FindMinInArray/FindMinInArray/obj/Debug/net7.0/FindMinInArray.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/FindMinInArray/FindMinInArray/obj/Debug/net7.0/FindMinInArray.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/FindMinInArray/FindMinInArray/obj/Debug/net7.0/refint/FindMinInArray.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/FindMinInArray/FindMinInArray/obj/Debug/net7.0/FindMinInArray.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/FindMinInArray/FindMinInArray/obj/Debug/net7.0/FindMinInArray.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/FindMinInArray/FindMinInArray/obj/Debug/net7.0/ref/FindMinInArray.dll

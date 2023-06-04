@@ -1,8 +1,7 @@
 ﻿<Properties StartupConfiguration="{58509424-86A5-4075-8FC3-14BD3C0F009D}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="DiagonalLineMatrix/Program.cs">
     <Files>
-      <File FileName="DiagonalLineMatrix/Program.cs" Line="45" Column="68" />
+      <File FileName="DiagonalLineMatrix/Program.cs" Line="48" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,10 +15,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.DiagonalLineMatrix PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

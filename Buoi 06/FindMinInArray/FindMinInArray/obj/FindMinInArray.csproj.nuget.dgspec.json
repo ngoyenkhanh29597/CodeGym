@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/DiagonalLineMatrix/DiagonalLineMatrix/DiagonalLineMatrix.csproj": {}
+    "/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/FindMinInArray/FindMinInArray/FindMinInArray.csproj": {}
   },
   "projects": {
-    "/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/DiagonalLineMatrix/DiagonalLineMatrix/DiagonalLineMatrix.csproj": {
+    "/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/FindMinInArray/FindMinInArray/FindMinInArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/DiagonalLineMatrix/DiagonalLineMatrix/DiagonalLineMatrix.csproj",
-        "projectName": "DiagonalLineMatrix",
-        "projectPath": "/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/DiagonalLineMatrix/DiagonalLineMatrix/DiagonalLineMatrix.csproj",
+        "projectUniqueName": "/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/FindMinInArray/FindMinInArray/FindMinInArray.csproj",
+        "projectName": "FindMinInArray",
+        "projectPath": "/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/FindMinInArray/FindMinInArray/FindMinInArray.csproj",
         "packagesPath": "/Users/YenKhanh/.nuget/packages/",
-        "outputPath": "/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/DiagonalLineMatrix/DiagonalLineMatrix/obj/",
+        "outputPath": "/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/FindMinInArray/FindMinInArray/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/YenKhanh/.nuget/NuGet/NuGet.Config"

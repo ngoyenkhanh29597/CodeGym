@@ -1,8 +1,7 @@
 ﻿<Properties StartupConfiguration="{3375E285-D063-41F8-AE2C-E844EE1C6C3D}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="InsertElement/Program.cs">
     <Files>
-      <File FileName="InsertElement/Program.cs" Line="43" Column="49" />
+      <File FileName="InsertElement/Program.cs" Line="45" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,19 +13,13 @@
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State>
-          <Value>array[j]</Value>
-          <Value>array_medium[j]</Value>
-          <Value>j</Value>
-        </State>
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.InsertElement PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
 </Properties>
