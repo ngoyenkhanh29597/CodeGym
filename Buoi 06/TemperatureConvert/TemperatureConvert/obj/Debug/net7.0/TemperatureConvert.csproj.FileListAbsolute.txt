@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/TemperatureConvert/TemperatureConvert/obj/Debug/net7.0/TemperatureConvert.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/TemperatureConvert/TemperatureConvert/obj/Debug/net7.0/TemperatureConvert.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/TemperatureConvert/TemperatureConvert/obj/Debug/net7.0/TemperatureConvert.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/TemperatureConvert/TemperatureConvert/obj/Debug/net7.0/TemperatureConvert.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/TemperatureConvert/TemperatureConvert/obj/Debug/net7.0/TemperatureConvert.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/TemperatureConvert/TemperatureConvert/bin/Debug/net7.0/TemperatureConvert
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/TemperatureConvert/TemperatureConvert/bin/Debug/net7.0/TemperatureConvert.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/TemperatureConvert/TemperatureConvert/bin/Debug/net7.0/TemperatureConvert.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/TemperatureConvert/TemperatureConvert/bin/Debug/net7.0/TemperatureConvert.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/TemperatureConvert/TemperatureConvert/bin/Debug/net7.0/TemperatureConvert.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/TemperatureConvert/TemperatureConvert/obj/Debug/net7.0/TemperatureConvert.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/TemperatureConvert/TemperatureConvert/obj/Debug/net7.0/refint/TemperatureConvert.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/TemperatureConvert/TemperatureConvert/obj/Debug/net7.0/TemperatureConvert.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/TemperatureConvert/TemperatureConvert/obj/Debug/net7.0/TemperatureConvert.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/TemperatureConvert/TemperatureConvert/obj/Debug/net7.0/ref/TemperatureConvert.dll
