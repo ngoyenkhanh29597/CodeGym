@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{A48E6DDB-1FC4-4648-AAAD-B71A4A387499}|Default">
-  <MonoDevelop.Ide.ItemProperties.FindMinInArray PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.FindMinInArray PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="FindMinInArray/Program.cs">
     <Files>
-      <File FileName="FindMinInArray/Program.cs" Line="6" Column="9" />
+      <File FileName="FindMinInArray/Program.cs" Line="15" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
