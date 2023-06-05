@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/CountRepeatString/CountRepeatString/bin/Debug/net7.0/CountRepeatString
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/CountRepeatString/CountRepeatString/bin/Debug/net7.0/CountRepeatString.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/CountRepeatString/CountRepeatString/bin/Debug/net7.0/CountRepeatString.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/CountRepeatString/CountRepeatString/bin/Debug/net7.0/CountRepeatString.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/CountRepeatString/CountRepeatString/bin/Debug/net7.0/CountRepeatString.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/CountRepeatString/CountRepeatString/obj/Debug/net7.0/CountRepeatString.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/CountRepeatString/CountRepeatString/obj/Debug/net7.0/CountRepeatString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/CountRepeatString/CountRepeatString/obj/Debug/net7.0/CountRepeatString.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/CountRepeatString/CountRepeatString/obj/Debug/net7.0/CountRepeatString.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/CountRepeatString/CountRepeatString/obj/Debug/net7.0/CountRepeatString.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/CountRepeatString/CountRepeatString/obj/Debug/net7.0/CountRepeatString.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/CountRepeatString/CountRepeatString/obj/Debug/net7.0/refint/CountRepeatString.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/CountRepeatString/CountRepeatString/obj/Debug/net7.0/CountRepeatString.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/CountRepeatString/CountRepeatString/obj/Debug/net7.0/CountRepeatString.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 06/CountRepeatString/CountRepeatString/obj/Debug/net7.0/ref/CountRepeatString.dll

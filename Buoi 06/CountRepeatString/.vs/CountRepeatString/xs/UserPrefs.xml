@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{2D8A2495-0606-48C8-91C4-D94714EE01DC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="RemoveElement/Program.cs">
+﻿<Properties StartupConfiguration="{E061760C-C761-468E-8A6C-A74C8EB9CE7B}|Default">
+  <MonoDevelop.Ide.ItemProperties.CountRepeatString PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CountRepeatString/Program.cs">
     <Files>
-      <File FileName="RemoveElement/Program.cs" Line="70" Column="40" />
+      <File FileName="CountRepeatString/Program.cs" Line="31" Column="8" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="RemoveElement" expanded="True">
-            <Node name="RemoveElement" expanded="True">
+          <Node name="CountRepeatString" expanded="True">
+            <Node name="CountRepeatString" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,7 +17,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.RemoveElement PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
