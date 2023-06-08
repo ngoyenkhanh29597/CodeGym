@@ -1,25 +1,23 @@
 ﻿<Properties StartupConfiguration="{E061760C-C761-468E-8A6C-A74C8EB9CE7B}|Default">
-  <MonoDevelop.Ide.ItemProperties.CountRepeatString PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="CountRepeatString/Program.cs">
     <Files>
-      <File FileName="CountRepeatString/Program.cs" Line="31" Column="8" />
+      <File FileName="CountRepeatString/Program.cs" Line="25" Column="38" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CountRepeatString" expanded="True">
-            <Node name="CountRepeatString" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="CountRepeatString" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CountRepeatString PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

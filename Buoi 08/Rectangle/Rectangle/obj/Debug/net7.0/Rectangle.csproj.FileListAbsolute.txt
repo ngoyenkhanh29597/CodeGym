@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 08/Rectangle/Rectangle/obj/Debug/net7.0/Rectangle.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 08/Rectangle/Rectangle/obj/Debug/net7.0/Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 08/Rectangle/Rectangle/obj/Debug/net7.0/Rectangle.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 08/Rectangle/Rectangle/obj/Debug/net7.0/Rectangle.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 08/Rectangle/Rectangle/obj/Debug/net7.0/Rectangle.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 08/Rectangle/Rectangle/bin/Debug/net7.0/Rectangle
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 08/Rectangle/Rectangle/bin/Debug/net7.0/Rectangle.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 08/Rectangle/Rectangle/bin/Debug/net7.0/Rectangle.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 08/Rectangle/Rectangle/bin/Debug/net7.0/Rectangle.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 08/Rectangle/Rectangle/bin/Debug/net7.0/Rectangle.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 08/Rectangle/Rectangle/obj/Debug/net7.0/Rectangle.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 08/Rectangle/Rectangle/obj/Debug/net7.0/refint/Rectangle.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 08/Rectangle/Rectangle/obj/Debug/net7.0/Rectangle.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 08/Rectangle/Rectangle/obj/Debug/net7.0/Rectangle.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 08/Rectangle/Rectangle/obj/Debug/net7.0/ref/Rectangle.dll
