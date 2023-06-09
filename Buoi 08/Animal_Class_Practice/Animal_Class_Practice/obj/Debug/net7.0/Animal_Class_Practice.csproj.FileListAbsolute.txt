@@ -1,0 +1,15 @@
+/Users/YenKhanh/Projects/Animal_Class_Practice/Animal_Class_Practice/bin/Debug/net7.0/Animal_Class_Practice
+/Users/YenKhanh/Projects/Animal_Class_Practice/Animal_Class_Practice/bin/Debug/net7.0/Animal_Class_Practice.deps.json
+/Users/YenKhanh/Projects/Animal_Class_Practice/Animal_Class_Practice/bin/Debug/net7.0/Animal_Class_Practice.runtimeconfig.json
+/Users/YenKhanh/Projects/Animal_Class_Practice/Animal_Class_Practice/bin/Debug/net7.0/Animal_Class_Practice.dll
+/Users/YenKhanh/Projects/Animal_Class_Practice/Animal_Class_Practice/bin/Debug/net7.0/Animal_Class_Practice.pdb
+/Users/YenKhanh/Projects/Animal_Class_Practice/Animal_Class_Practice/obj/Debug/net7.0/Animal_Class_Practice.csproj.AssemblyReference.cache
+/Users/YenKhanh/Projects/Animal_Class_Practice/Animal_Class_Practice/obj/Debug/net7.0/Animal_Class_Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Projects/Animal_Class_Practice/Animal_Class_Practice/obj/Debug/net7.0/Animal_Class_Practice.AssemblyInfoInputs.cache
+/Users/YenKhanh/Projects/Animal_Class_Practice/Animal_Class_Practice/obj/Debug/net7.0/Animal_Class_Practice.AssemblyInfo.cs
+/Users/YenKhanh/Projects/Animal_Class_Practice/Animal_Class_Practice/obj/Debug/net7.0/Animal_Class_Practice.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Projects/Animal_Class_Practice/Animal_Class_Practice/obj/Debug/net7.0/Animal_Class_Practice.dll
+/Users/YenKhanh/Projects/Animal_Class_Practice/Animal_Class_Practice/obj/Debug/net7.0/refint/Animal_Class_Practice.dll
+/Users/YenKhanh/Projects/Animal_Class_Practice/Animal_Class_Practice/obj/Debug/net7.0/Animal_Class_Practice.pdb
+/Users/YenKhanh/Projects/Animal_Class_Practice/Animal_Class_Practice/obj/Debug/net7.0/Animal_Class_Practice.genruntimeconfig.cache
+/Users/YenKhanh/Projects/Animal_Class_Practice/Animal_Class_Practice/obj/Debug/net7.0/ref/Animal_Class_Practice.dll
