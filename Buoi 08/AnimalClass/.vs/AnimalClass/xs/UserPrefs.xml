@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{72EDA5DE-196C-4318-99BF-D1BA2781ACCF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnimalClass/Animal.cs">
+    <Files>
+      <File FileName="AnimalClass/Animal.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AnimalClass" expanded="True">
+            <Node name="AnimalClass" expanded="True">
+              <Node name="Animal.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AnimalClass FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
