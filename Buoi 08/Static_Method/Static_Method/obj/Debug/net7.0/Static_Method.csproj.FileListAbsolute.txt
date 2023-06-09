@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Static_Method/Static_Method/bin/Debug/net7.0/Static_Method
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Static_Method/Static_Method/bin/Debug/net7.0/Static_Method.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Static_Method/Static_Method/bin/Debug/net7.0/Static_Method.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Static_Method/Static_Method/bin/Debug/net7.0/Static_Method.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Static_Method/Static_Method/bin/Debug/net7.0/Static_Method.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Static_Method/Static_Method/obj/Debug/net7.0/Static_Method.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Static_Method/Static_Method/obj/Debug/net7.0/Static_Method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Static_Method/Static_Method/obj/Debug/net7.0/Static_Method.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Static_Method/Static_Method/obj/Debug/net7.0/Static_Method.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Static_Method/Static_Method/obj/Debug/net7.0/Static_Method.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Static_Method/Static_Method/obj/Debug/net7.0/Static_Method.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Static_Method/Static_Method/obj/Debug/net7.0/refint/Static_Method.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Static_Method/Static_Method/obj/Debug/net7.0/Static_Method.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Static_Method/Static_Method/obj/Debug/net7.0/Static_Method.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Static_Method/Static_Method/obj/Debug/net7.0/ref/Static_Method.dll
