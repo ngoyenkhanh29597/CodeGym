@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Sum_in_txt/SumInText/SumInText/bin/Debug/net7.0/SumInText
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Sum_in_txt/SumInText/SumInText/bin/Debug/net7.0/SumInText.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Sum_in_txt/SumInText/SumInText/bin/Debug/net7.0/SumInText.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Sum_in_txt/SumInText/SumInText/bin/Debug/net7.0/SumInText.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Sum_in_txt/SumInText/SumInText/bin/Debug/net7.0/SumInText.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Sum_in_txt/SumInText/SumInText/obj/Debug/net7.0/SumInText.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Sum_in_txt/SumInText/SumInText/obj/Debug/net7.0/SumInText.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Sum_in_txt/SumInText/SumInText/obj/Debug/net7.0/SumInText.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Sum_in_txt/SumInText/SumInText/obj/Debug/net7.0/SumInText.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Sum_in_txt/SumInText/SumInText/obj/Debug/net7.0/SumInText.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Sum_in_txt/SumInText/SumInText/obj/Debug/net7.0/SumInText.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Sum_in_txt/SumInText/SumInText/obj/Debug/net7.0/refint/SumInText.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Sum_in_txt/SumInText/SumInText/obj/Debug/net7.0/SumInText.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Sum_in_txt/SumInText/SumInText/obj/Debug/net7.0/SumInText.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 11/Sum_in_txt/SumInText/SumInText/obj/Debug/net7.0/ref/SumInText.dll
