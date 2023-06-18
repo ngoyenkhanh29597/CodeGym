@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 13_ThucHanh2/TicTacToe/TicTacToe/bin/Debug/net7.0/TicTacToe
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 13_ThucHanh2/TicTacToe/TicTacToe/bin/Debug/net7.0/TicTacToe.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 13_ThucHanh2/TicTacToe/TicTacToe/bin/Debug/net7.0/TicTacToe.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 13_ThucHanh2/TicTacToe/TicTacToe/bin/Debug/net7.0/TicTacToe.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 13_ThucHanh2/TicTacToe/TicTacToe/bin/Debug/net7.0/TicTacToe.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 13_ThucHanh2/TicTacToe/TicTacToe/obj/Debug/net7.0/TicTacToe.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 13_ThucHanh2/TicTacToe/TicTacToe/obj/Debug/net7.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 13_ThucHanh2/TicTacToe/TicTacToe/obj/Debug/net7.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 13_ThucHanh2/TicTacToe/TicTacToe/obj/Debug/net7.0/TicTacToe.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 13_ThucHanh2/TicTacToe/TicTacToe/obj/Debug/net7.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 13_ThucHanh2/TicTacToe/TicTacToe/obj/Debug/net7.0/TicTacToe.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 13_ThucHanh2/TicTacToe/TicTacToe/obj/Debug/net7.0/refint/TicTacToe.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 13_ThucHanh2/TicTacToe/TicTacToe/obj/Debug/net7.0/TicTacToe.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 13_ThucHanh2/TicTacToe/TicTacToe/obj/Debug/net7.0/TicTacToe.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 13_ThucHanh2/TicTacToe/TicTacToe/obj/Debug/net7.0/ref/TicTacToe.dll
