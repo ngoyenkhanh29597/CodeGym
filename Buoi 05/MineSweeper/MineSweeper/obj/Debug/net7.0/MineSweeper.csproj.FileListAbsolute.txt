@@ -1,0 +1,15 @@
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/MineSweeper/MineSweeper/bin/Debug/net7.0/MineSweeper
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/MineSweeper/MineSweeper/bin/Debug/net7.0/MineSweeper.deps.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/MineSweeper/MineSweeper/bin/Debug/net7.0/MineSweeper.runtimeconfig.json
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/MineSweeper/MineSweeper/bin/Debug/net7.0/MineSweeper.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/MineSweeper/MineSweeper/bin/Debug/net7.0/MineSweeper.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/MineSweeper/MineSweeper/obj/Debug/net7.0/MineSweeper.csproj.AssemblyReference.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/MineSweeper/MineSweeper/obj/Debug/net7.0/MineSweeper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/MineSweeper/MineSweeper/obj/Debug/net7.0/MineSweeper.AssemblyInfoInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/MineSweeper/MineSweeper/obj/Debug/net7.0/MineSweeper.AssemblyInfo.cs
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/MineSweeper/MineSweeper/obj/Debug/net7.0/MineSweeper.csproj.CoreCompileInputs.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/MineSweeper/MineSweeper/obj/Debug/net7.0/MineSweeper.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/MineSweeper/MineSweeper/obj/Debug/net7.0/refint/MineSweeper.dll
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/MineSweeper/MineSweeper/obj/Debug/net7.0/MineSweeper.pdb
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/MineSweeper/MineSweeper/obj/Debug/net7.0/MineSweeper.genruntimeconfig.cache
+/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 05/MineSweeper/MineSweeper/obj/Debug/net7.0/ref/MineSweeper.dll
