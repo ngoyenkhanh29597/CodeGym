@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{9AFABF28-D3DA-4DF2-BF83-9F81566C9BD0}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Fan__Class FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Fan__Class PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fan_Class/Fan.cs">
+    <Files>
+      <File FileName="Fan_Class/Program.cs" Line="11" Column="33" />
+      <File FileName="Fan_Class/Fan.cs" Line="59" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fan_Class" expanded="True">
+            <Node name="Fan_Class">
+              <Node name="Fan.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
