@@ -17,8 +17,8 @@ public class BirdCollision : MonoBehaviour
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
-    {   
-         Debug.Log(gameObject.name + " starts collide with " + collision.gameObject.name);
+    {
+        Debug.Log(gameObject.name + " starts collide with " + collision.gameObject.name);
         Debug.Log("GAME OVER");
     }
 }
