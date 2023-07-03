@@ -14,10 +14,11 @@ class SnakeGamePlay
     public Random randFruit = new Random(); //Initilize a random variable for making food
     int fruitX, fruitY; //Location of fruit on screen
 
-    //Initilize another kind of food
-    public Random randFruitVip = new Random(); 
-    int fruitVipX, fruitVipY;
+    ////Initilize another kind of food
+    //public Random randFruitVip = new Random(); 
+    //int fruitVipX, fruitVipY;
     int fruitVipCount;
+    int fruitType;
 
     int fruitCounter; //Fruit counter to determine the time game speed is increased
 
@@ -39,7 +40,7 @@ class SnakeGamePlay
 
     string dir, pre_dir; //Direction variable of the snakeimestop
 
-    int timestop = 500;
+    int timestop;
 
 
     //First Display
@@ -67,6 +68,8 @@ class SnakeGamePlay
         headX = 20; // must be <width
         headY = 10; // must be <height
         fruitVipCount = 0;
+        fruitType = 0;
+        timestop = 500;
         randomFruit();
         //randomFruitVip();
     }
@@ -74,16 +77,22 @@ class SnakeGamePlay
     //Fruit appears randomly on gameplay area
     void randomFruit()
     {
+        fruitVipCount++;
+        if (fruitVipCount % 5 == 0) fruitType = 1;
+        else fruitType = 0;
         fruitX = randFruit.Next(1, width - 1);
         fruitY = randFruit.Next(1, height - 1);
     }
 
-    void randomFruitVip()
-    {
-  
-         fruitVipX = randFruitVip.Next(1, width - 1);
-         fruitVipY = randFruitVip.Next(1, height - 1);
-    }
+    //void randomFruitVip()
+    //{
+    //    //if (fruitVipCount > 0 && fruitVipCount % 5 == 0)
+    //    //{
+    //        fruitVipX = randFruitVip.Next(1, width - 1);
+    //        fruitVipY = randFruitVip.Next(1, height - 1);
+    //    //}
+         
+    //}
 
     //Update screen
     void Update()
@@ -176,9 +185,9 @@ class SnakeGamePlay
         if (headX == fruitX && headY == fruitY)
         {
             fruitCounter++; //Increased the fruit counter by 1 every time the snake eats
-            score += 1; //Score incnreased by 5 whenever Snake eat a food
-
-            fruitVipCount++;
+            if (fruitType == 0) score += 1; //Score incnreased by 5 whenever Snake eat a food
+            else score += 5;
+            //fruitVipCount++;
 
             
             nBody++;   // Its body increased by 1 unit
@@ -187,21 +196,22 @@ class SnakeGamePlay
             {
                 timestop -= 100;
             }
-            if (fruitVipCount > 0 && fruitVipCount % 5 == 0)
-            {
-                randomFruitVip();
-                if (headX == fruitVipX && headY == fruitVipY)
-                {
-                    fruitCounter++;
-                    score += 2; //Increase score by 2 
-                    nBody += 2;
-                    //randomFruitVip();
-                    if (fruitCounter > 0 && fruitCounter % 5 == 0 && timestop > 100)
-                    {
-                        timestop -= 100;
-                    }
-                }
-            }
+
+            //if (fruitVipCount > 0 && fruitVipCount % 5 == 0)
+            //{
+            //    randomFruitVip();
+            //    if (headX == fruitVipX && headY == fruitVipY)
+            //    {
+            //        fruitCounter++;
+            //        score += 2; //Increase score by 2 
+            //        nBody += 2;
+            //        //randomFruitVip();
+            //        if (fruitCounter > 0 && fruitCounter % 5 == 0 && timestop > 100)
+            //        {
+            //            timestop -= 100;
+            //        }
+            //    }
+            //}
         }
 
         
@@ -215,7 +225,7 @@ class SnakeGamePlay
                 //Snake will be died when it eats itself (its head and body are the same position)
                 gameOver = true;
             }
-            if (fruitX == bodyX[i] && fruitY == bodyY[i] || fruitX == fruitVipX && fruitY == fruitVipY) //Food position must be different from snake's body postion
+            if (fruitX == bodyX[i] && fruitY == bodyY[i]) //Food position must be different from snake's body postion
                 randomFruit();
         }
     }
@@ -232,11 +242,11 @@ class SnakeGamePlay
                     Console.Write("-");
                 else if (j == 0 || j == width - 1) //Left and right edge
                     Console.Write("|");
-                else if (j == fruitX && i == fruitY) //Fruit appreance
+                else if (j == fruitX && i == fruitY && fruitType == 0) //Fruit appreance
                     Console.Write("$");
                 else if (j == headX && i == headY) //Snake's head appearance
                     Console.Write("0");
-                else if (j == fruitVipX && i == fruitVipY)
+                else if (j == fruitX && i == fruitY && fruitType == 1) //Fruit appreance
                     Console.Write("*");
                 else
                 {
