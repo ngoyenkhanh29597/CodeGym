@@ -17,6 +17,7 @@ class SnakeGamePlay
     //Initilize another kind of food
     public Random randFruitVip = new Random(); 
     int fruitVipX, fruitVipY;
+    int fruitVipCount;
 
     int fruitCounter; //Fruit counter to determine the time game speed is increased
 
@@ -65,8 +66,9 @@ class SnakeGamePlay
         gameOver = reset = isprinted = false;
         headX = 20; // must be <width
         headY = 10; // must be <height
+        fruitVipCount = 0;
         randomFruit();
-        randomFruitVip();
+        //randomFruitVip();
     }
 
     //Fruit appears randomly on gameplay area
@@ -175,6 +177,9 @@ class SnakeGamePlay
         {
             fruitCounter++; //Increased the fruit counter by 1 every time the snake eats
             score += 1; //Score incnreased by 5 whenever Snake eat a food
+
+            fruitVipCount++;
+
             
             nBody++;   // Its body increased by 1 unit
             randomFruit();            //Creating a new fruit after it finishes the pre-food
@@ -182,22 +187,26 @@ class SnakeGamePlay
             {
                 timestop -= 100;
             }
-        }
-
-
-        if (headX == fruitVipX && headY == fruitVipY)
-         {
-            fruitCounter++; 
-            score += 2;
-            nBody += 2;
-            randomFruitVip();
-            if (fruitCounter > 0 && fruitCounter % 5 == 0 && timestop > 100)
+            if (fruitVipCount > 0 && fruitVipCount % 5 == 0)
             {
-                timestop -= 100;
+                randomFruitVip();
+                if (headX == fruitVipX && headY == fruitVipY)
+                {
+                    fruitCounter++;
+                    score += 2; //Increase score by 2 
+                    nBody += 2;
+                    //randomFruitVip();
+                    if (fruitCounter > 0 && fruitCounter % 5 == 0 && timestop > 100)
+                    {
+                        timestop -= 100;
+                    }
+                }
             }
         }
-        
 
+        
+        
+        
         //Checking snake's head and body
         for (int i = 1; i < nBody; i++)
         {
