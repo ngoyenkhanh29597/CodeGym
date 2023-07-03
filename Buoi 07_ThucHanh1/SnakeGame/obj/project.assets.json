@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/YenKhanh/Projects/SnakeGame/SnakeGame/SnakeGame.csproj",
+      "projectUniqueName": "/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 07_ThucHanh1/SnakeGame/SnakeGame.csproj",
       "projectName": "SnakeGame",
-      "projectPath": "/Users/YenKhanh/Projects/SnakeGame/SnakeGame/SnakeGame.csproj",
+      "projectPath": "/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 07_ThucHanh1/SnakeGame/SnakeGame.csproj",
       "packagesPath": "/Users/YenKhanh/.nuget/packages/",
-      "outputPath": "/Users/YenKhanh/Projects/SnakeGame/SnakeGame/obj/",
+      "outputPath": "/Users/YenKhanh/Documents/GitHub/CodeGym/Buoi 07_ThucHanh1/SnakeGame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/YenKhanh/.nuget/NuGet/NuGet.Config"
