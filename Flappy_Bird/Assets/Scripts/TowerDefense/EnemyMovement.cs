@@ -5,16 +5,10 @@ using UnityEngine;
 public class EnemyMovement : MonoBehaviour
 {
     public float speed;
-    public int direction;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
+    public int direction; // 1: Right; -1: Left;
     // Update is called once per frame
     void Update()
     {
-        
+        transform.position += new Vector3(direction * Time.deltaTime * speed, 0, 0);
     }
 }

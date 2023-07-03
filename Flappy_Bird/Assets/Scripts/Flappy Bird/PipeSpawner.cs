@@ -7,10 +7,7 @@ public class PipeSpawner : MonoBehaviour
     public GameObject pipePrefab;
     public Transform spawnPosition;
     public float delayPerSpawn;
-
-    public float maxHeight;
-    public float minHeight;
-
+    public Vector2 offsetPipeSpawn;
     private float currentTimeSpawn = 0;
     // Start is called before the first frame update
     void Start()
@@ -21,14 +18,22 @@ public class PipeSpawner : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (GameManager.Instance.isStartGame == false) return;
+        if (GameManager.Instance.isEndGame) return;
         if (currentTimeSpawn > delayPerSpawn)
         {
-            Vector3 pipePos = new Vector3(3.0f, Random.Range(minHeight, maxHeight), 0.0f);
             currentTimeSpawn = 0;
-            // Spawn Pipe
-            GameObject pipe = Instantiate(pipePrefab);
-            pipe.transform.position = pipePos;
+            SpawnPipe();
         }
         currentTimeSpawn += Time.deltaTime;
+    }
+
+    private void SpawnPipe()
+    {
+        // Spawn Pipe
+        GameObject pipe = Instantiate(pipePrefab);
+        pipe.transform.position = spawnPosition.position;
+        var offset = Random.Range(offsetPipeSpawn.x, offsetPipeSpawn.y);
+        pipe.transform.position += new Vector3(0, offset);
     }
 }
