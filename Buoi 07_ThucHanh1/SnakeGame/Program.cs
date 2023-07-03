@@ -259,7 +259,7 @@ class SnakeGamePlay
                             isprinted = true;
                         }
                     }
-                    if (!isprinted) Console.Write(" "); //The other positions in 
+                    if (!isprinted) Console.Write(" "); //The other positions 
                 }
             }
             Console.WriteLine();
